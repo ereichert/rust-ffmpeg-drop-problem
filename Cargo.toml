@@ -5,5 +5,5 @@ authors = ["Eric D. Reichert <eric@reichertconsulting.com>"]
 
 [dependencies.ffmpeg-sys]
 git = "https://github.com/trafficland/rust-ffmpeg-sys.git"
-rev = "03b94acb02049655e070fa9ac1441f4dc7d75552"
+rev = "851963cfd1152bf014cb12980cd56e93bc866b48"
 features  = ["build", "build-pic", "build-zlib", "build-lzma", "build-bz2"]
